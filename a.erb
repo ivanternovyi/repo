@@ -1,0 +1,10 @@
+require 'erb'
+SOURCE =
+%{<% for n in min..max%>
+The number is <%= n%>
+}
+
+erb = ERB.new(SOURCE)
+min = 5
+max = 7
+puts erb.result(binding)
