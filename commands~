@@ -1,0 +1,9 @@
+man errno
+curl http://wttr.in/Berezhany
+apt-get moo
+factor //divisors
+xeyes
+acpi -V
+sudo apt-get install lm-sensors
+sudo sensors-detect
+sensors
