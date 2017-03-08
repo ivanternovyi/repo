@@ -1,5 +1,10 @@
 man errno
 curl http://wttr.in/Berezhany
 apt-get moo
-factor value //divisors
+factor //divisors
 xeyes
+acpi -V
+sudo apt-get install lm-sensors
+sudo sensors-detect
+sensors
+178.16.1.0
