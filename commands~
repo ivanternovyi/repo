@@ -7,3 +7,7 @@ acpi -V
 sudo apt-get install lm-sensors
 sudo sensors-detect
 sensors
+178.16.1.0
+cloc . #to count lines in the app
+
+sensors
